@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-[![card](https://github-readme-stats.vercel.app/api?username=iuricode&theme=default&show_icons=true)](https://github.com/VitorFacioni/github-readme-stats)
+[![card](https://github-readme-stats.vercel.app/api?username=VitorFacioni)](https://github.com/VitorFacioni/github-readme-stats)
 
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=default)](https://github.com/VitorFacioni/github-readme-stats)
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorFacioni)](https://github.com/VitorFacioni/github-readme-stats)
 
 
 <!--
