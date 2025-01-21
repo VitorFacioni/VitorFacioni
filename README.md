@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🖥️ Amante da Tecnologia<br>📕 Estudante de Ciência da Computação<br>🧑🏽‍💻 Tecnico em Analise e desenvolvimento de Sistemas<br>🎲 Goste de Rpg e games</p>
+<p align="left">🖥️ Amante da Tecnologia<br>📕 Estudante de Ciência da Computação<br>🧑🏽‍💻 Tecnico em Analise e desenvolvimento de Sistemas<br>🎲 Gosto de Rpg e games</p>
 
 ###
 
